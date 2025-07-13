@@ -1,6 +1,7 @@
 IOC Detector Dashboard
 أداة لتحليل مؤشرات الاختراق (IOCs) 
-مع إثراء البيانات باستخدام APIs، وعرض النتائج في لوحة تحكم تفاعلية
+
+مع إثراء البيانات باستخدام APIs ،   وعرض النتائج في لوحة تحكم تفاعلية
 
 
 الميزات :
@@ -11,11 +12,9 @@ IOC Detector Dashboard
 - إمكانية تصدير النتائج والتنبيه
   
 الأدوات المستخدمة:
-
-
-                                                                                                         Python
-                                                                                                        Streamlit
-                                                                                                        Requests API
+      Python
+     Streamlit     
+     Requests API
  
 كيفية التشغيل :
 
