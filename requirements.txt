@@ -1,0 +1,4 @@
+streamlit
+requests
+Add requirements.txt with necessary libraries
+
