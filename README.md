@@ -13,9 +13,10 @@ IOC Detector Dashboard
 الأدوات المستخدمة:
 
 
- Python
- Streamlit
- Requests API
+                                                                                                         Python
+                                                                                                        Streamlit
+                                                                                                        Requests API
+ 
 كيفية التشغيل :
 
 1. تثبيت المتطلبات:  
