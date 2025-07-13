@@ -1,5 +1,8 @@
-IOC Detector Dashboard
+
+      IOC Detector Dashboard
+      
 أداة لتحليل مؤشرات الاختراق (IOCs) 
+
 
 مع إثراء البيانات باستخدام APIs ،   وعرض النتائج في لوحة تحكم تفاعلية
 
