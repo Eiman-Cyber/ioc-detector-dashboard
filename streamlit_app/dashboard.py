@@ -16,7 +16,6 @@ def main():
     uploaded_file = st.file_uploader("اختر ملف CSV", type=["csv"])
 
     if uploaded_file is not None:
-        # قراءة الملف
         df_iocs = pd.read_csv(uploaded_file, header=None, names=["ip"])
         iocs = df_iocs["ip"].tolist()
 
@@ -37,3 +36,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
